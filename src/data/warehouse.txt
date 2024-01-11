@@ -1,0 +1,4 @@
+1:Doll, Count: 5, Weight: 30.0
+2:Car, Count: 3, Weight: 50.0
+
+1:Plane, Count: 2, Weight: 48.0
